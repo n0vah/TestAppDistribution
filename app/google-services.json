@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "635312437279",
+    "project_id": "testappdistributioin",
+    "storage_bucket": "testappdistributioin.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:635312437279:android:5472b33c341ed256163d2a",
+        "android_client_info": {
+          "package_name": "com.novah.testappdistribution"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "635312437279-pdaro03l6jfkiokl84ocsongl9iq438l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDuqmg91yfKbP4Ynv7eMRNWkyfTwTQP8Qg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "635312437279-pdaro03l6jfkiokl84ocsongl9iq438l.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
